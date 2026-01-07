@@ -5,7 +5,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "Hi Maya",
+      "text": "Hi Maya.",
       "timestamp": "00:00:05"
     },
     {
@@ -13,8 +13,376 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Hi Alex",
+      "text": "Hi Alex. Thanks for making the time.",
       "timestamp": "00:00:08"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "I have us for 15 minutes. My goal is to confirm the problem, make sure we're even relevant for HubSpot + Outreach, and then we can decide next step. Sound good?",
+      "timestamp": "00:00:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Yep. Works.",
+      "timestamp": "00:00:32"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Cool. I saw your note about post-demo drop-offs and some no-shows. When you say \"drop\", what does it look like in practice?",
+      "timestamp": "00:00:40"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "After a demo, we expect follow-ups and a next meeting. Instead, a chunk of people just go quiet. Sometimes they still open emails, but no replies.",
+      "timestamp": "00:00:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Got it. And if you had to pick one: is it worse on no-show for the demo, or silence after the demo?",
+      "timestamp": "00:01:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Silence after. No-show is annoying, but post-demo silence kills forecast.",
+      "timestamp": "00:01:29"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Makes sense. What are you tracking today to spot that early? Just activities like opens/clicks and tasks, or something else?",
+      "timestamp": "00:01:44"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Mostly activities. HubSpot engagement, Outreach steps completed, rep notes. It's not really intent.",
+      "timestamp": "00:01:58"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Yeah, that's the pattern we see a lot: activity isn't the same as momentum. We focus on thread-level signals—like response latency trends, unanswered streaks, meeting risk, and shifts in language from the lead side.",
+      "timestamp": "00:02:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Ok.",
+      "timestamp": "00:02:34"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Quick calibration: what does your funnel look like right now? MQL to SQL, and where it stalls.",
+      "timestamp": "00:02:42"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "MQL to SQL is around 18%. We want 25%. Biggest stall is after demo when the next meeting isn't booked.",
+      "timestamp": "00:02:56"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "And team size: you mentioned 6 SDRs—are they also scheduling demos, or is that AE-led?",
+      "timestamp": "00:03:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "SDRs do first contact and set demos. AEs run demos and push for next steps, but the follow-up hygiene varies.",
+      "timestamp": "00:03:30"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Got it. So one use case is: if we see the lead cooling before the AE even notices, we can recommend a specific action—like switch from long emails to a short ask, bring in a different stakeholder, or reframe the next step.",
+      "timestamp": "00:03:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "What do you mean by \"cooling\" exactly? Opens can be misleading.",
+      "timestamp": "00:04:17"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Totally. We don't treat opens as intent. Cooling is more like: response times increasing across touches, lead messages getting shorter, more deferrals like \"circle back\", and missing small commitments—like not confirming a calendar invite or not answering a direct question.",
+      "timestamp": "00:04:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Ok, that tracks.",
+      "timestamp": "00:05:02"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Do you have a specific segment where it's worst? SMB vs mid-market, inbound vs outbound, or a particular persona?",
+      "timestamp": "00:05:12"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Mid-market inbound. Usually RevOps or Sales Ops leads. They care about process, but they get busy and disappear.",
+      "timestamp": "00:05:26"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "That fits. On the integration side, we read the engagement timeline and thread metadata from HubSpot, and Outreach sequencing info if you use it as the outbound system. We don't require reps to change their workflow on day one.",
+      "timestamp": "00:05:47"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "How heavy is the setup? We don't have bandwidth for a long implementation right now.",
+      "timestamp": "00:06:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Reasonable. Typical path is: connect HubSpot, pick one pipeline and a couple of sequences, run it on a subset of leads for two weeks, and you get a dashboard plus recommended actions. The goal is minimal lift initially.",
+      "timestamp": "00:06:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Ok.",
+      "timestamp": "00:06:55"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "You mentioned you're also looking at Gong. Is that primarily for call recording and coaching, or for forecasting/health signals?",
+      "timestamp": "00:07:03"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Mostly call coaching. They pitch pipeline health too, but it's very call-centric. Our issue is a lot of leakage happens over email after demo.",
+      "timestamp": "00:07:18"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "That makes sense. We can complement Gong if you end up there, because we're analyzing the thread momentum and the gaps between touches, not just what's said on calls.",
+      "timestamp": "00:07:43"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Security is going to come up. Our CTO will ask about data handling and SOC2.",
+      "timestamp": "00:08:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Understood. We have a standard security overview we can share, and SOC2 documentation available. We also support least-privilege access and can scope what we ingest. I can send the overview right after this.",
+      "timestamp": "00:08:15"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Ok. Keep it brief.",
+      "timestamp": "00:08:39"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Will do. On pricing, I can at least give a ballpark. For a team your size, it's typically in the $50–80k per year range depending on modules and support level.",
+      "timestamp": "00:08:48"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "That's within range. But I still need VP sign-off.",
+      "timestamp": "00:09:11"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Makes sense. For the VP, we usually provide a one-pager that explains: what we detect, what actions we recommend, and what success looks like in the first 30 days. Would that help?",
+      "timestamp": "00:09:23"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Yes. Something forwardable.",
+      "timestamp": "00:09:46"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Got it. Last couple of questions so we're not guessing: what's your ideal timeline? Is this a \"fix it this month\" project or more of a next-quarter rollout?",
+      "timestamp": "00:09:54"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "We want to evaluate now. Rollout would likely be next quarter. If it drags, we'll probably revisit in Q2 budgeting.",
+      "timestamp": "00:10:13"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Understood. And decision process: VP Sales is the approver, CTO gates security, and you run the evaluation. Is that accurate?",
+      "timestamp": "00:10:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Yeah. That's basically it.",
+      "timestamp": "00:10:52"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Perfect. Next step on my side: I'll send a short one-pager for your VP plus the security overview for your CTO. If it makes sense, we can schedule a deeper demo with an AE once your VP is aligned.",
+      "timestamp": "00:11:01"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Ok.",
+      "timestamp": "00:11:28"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Before we wrap: is there anything that would immediately disqualify us? Like required integrations, strict data residency, or a pricing cap.",
+      "timestamp": "00:11:36"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "If security isn't solid, we're out. And if the VP thinks it overlaps too much with Gong, he'll kill it.",
+      "timestamp": "00:11:53"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Got it. I'll keep the materials focused on email leakage and post-demo momentum, not call coaching. And I'll keep the security piece straightforward.",
+      "timestamp": "00:12:14"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Sounds good.",
+      "timestamp": "00:12:31"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Great. I'll send that shortly. Thanks again, Alex.",
+      "timestamp": "00:12:38"
+    },
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Thanks. Talk soon.",
+      "timestamp": "00:12:46"
     }
   ]
 }
