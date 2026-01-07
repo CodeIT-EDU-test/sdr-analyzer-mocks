@@ -1,0 +1,20 @@
+{
+  "transcript": [
+    {
+      "speaker": {
+        "display_name": "Alex",
+        "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
+      },
+      "text": "Hi Maya",
+      "timestamp": "00:00:05"
+    },
+    {
+      "speaker": {
+        "display_name": "Maya",
+        "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
+      },
+      "text": "Hi Alex",
+      "timestamp": "00:00:08"
+    }
+  ]
+}
