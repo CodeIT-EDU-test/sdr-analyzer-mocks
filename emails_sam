@@ -1,0 +1,328 @@
+{
+  "total": 15,
+  "results": [
+    {
+      "id": "1119402705228",
+      "properties": {
+        "hs_createdate": "2026-01-08T18:08:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<e8ce49e46f4b3bda3b0a@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Hey Maya,\n\nThanks — this is helpful. We can do Friday 1pm ET.\n\nAlso: we have a security review step (SOC2, DPA). Do you have docs?\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-08T18:08:00Z",
+        "hs_object_id": "1119402705228",
+        "hs_timestamp": "2026-01-08T18:08:00Z"
+      },
+      "createdAt": "2026-01-08T18:08:00Z",
+      "updatedAt": "2026-01-08T18:08:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221119402705228%22%7D%5D"
+    },
+    {
+      "id": "761693293758",
+      "properties": {
+        "hs_createdate": "2026-01-08T14:01:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<2b8620d4d5d5f2cdb4b0@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Friday 1pm ET works ✅\n\nOn security: yes — we have SOC2 report + DPA template + subprocessor list. I’ll send right after we confirm attendees.\n\nWho should join from your side (RevOps / Sales Ops / SDR manager)?\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-08T14:01:00Z",
+        "hs_object_id": "761693293758",
+        "hs_timestamp": "2026-01-08T14:01:00Z"
+      },
+      "createdAt": "2026-01-08T14:01:00Z",
+      "updatedAt": "2026-01-08T14:01:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22761693293758%22%7D%5D"
+    },
+    {
+      "id": "1249404341846",
+      "properties": {
+        "hs_createdate": "2026-01-08T09:54:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<d8b4a6a4f2a7c8a9190f@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Northwind — follow-up",
+        "hs_email_text": "Hey Sam — following up on your demo interest.\n\nQuick context: we help teams spot “cooling” leads + fix post-demo drop-offs by analyzing threads (timing + intent drift + missed questions).\n\nIf you reply with:\n- SDR count\n- inbound volume/week\n- where the drop-off is biggest\n…I’ll tailor the demo.\n\nDo Thu 2pm ET or Fri 1pm ET work?\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-08T09:54:00Z",
+        "hs_object_id": "1249404341846",
+        "hs_timestamp": "2026-01-08T09:54:00Z"
+      },
+      "createdAt": "2026-01-08T09:54:00Z",
+      "updatedAt": "2026-01-08T09:54:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221249404341846%22%7D%5D"
+    },
+    {
+      "id": "1032519916828",
+      "properties": {
+        "hs_createdate": "2026-01-08T05:47:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<cd4fda5a8a1e4d7f4f5d@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Hey — sorry, just seeing this.\n\nWe’re 4 SDRs, ~60 inbound/week.\n\nDrop-off is mostly after demo.\n\nFri 1pm ET works.\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-08T05:47:00Z",
+        "hs_object_id": "1032519916828",
+        "hs_timestamp": "2026-01-08T05:47:00Z"
+      },
+      "createdAt": "2026-01-08T05:47:00Z",
+      "updatedAt": "2026-01-08T05:47:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221032519916828%22%7D%5D"
+    },
+    {
+      "id": "775803397588",
+      "properties": {
+        "hs_createdate": "2026-01-08T01:40:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<e69f3fbc0e36f3b5c1e1@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Thanks Sam.\n\nWhen you say post-demo drop-off — is it:\n- they stop replying entirely, or\n- they reply but avoid next steps (“later”, “need to think”), or\n- you lose them during handoff to AE?\n\nIf you can paste 1 example thread, I’ll show you exactly how we flag it.\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-08T01:40:00Z",
+        "hs_object_id": "775803397588",
+        "hs_timestamp": "2026-01-08T01:40:00Z"
+      },
+      "createdAt": "2026-01-08T01:40:00Z",
+      "updatedAt": "2026-01-08T01:40:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22775803397588%22%7D%5D"
+    },
+    {
+      "id": "1125576357680",
+      "properties": {
+        "hs_createdate": "2026-01-07T21:33:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<1ac2aabb38a646b20e6b@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Mostly they stop replying.\n\nSometimes AE handoff is also messy — SDR notes aren’t great.\n\nI can paste a thread after this.\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T21:33:00Z",
+        "hs_object_id": "1125576357680",
+        "hs_timestamp": "2026-01-07T21:33:00Z"
+      },
+      "createdAt": "2026-01-07T21:33:00Z",
+      "updatedAt": "2026-01-07T21:33:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221125576357680%22%7D%5D"
+    },
+    {
+      "id": "1259783414307",
+      "properties": {
+        "hs_createdate": "2026-01-07T17:26:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<f4a4e4c5e9ef5f7016e9@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "That’s exactly what we surface:\n- “silence trajectory” (days since last reply + unanswered streak)\n- intent drift (answers degrade)\n- handoff gaps (missing BANT / missing next step)\n\nIf you send 1 thread, I’ll return:\n1) why it cooled (evidence)\n2) what SDR missed\n3) best next action\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T17:26:00Z",
+        "hs_object_id": "1259783414307",
+        "hs_timestamp": "2026-01-07T17:26:00Z"
+      },
+      "createdAt": "2026-01-07T17:26:00Z",
+      "updatedAt": "2026-01-07T17:26:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221259783414307%22%7D%5D"
+    },
+    {
+      "id": "1203854628398",
+      "properties": {
+        "hs_createdate": "2026-01-07T13:19:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<c8b19796ec92c84a9a3e@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Quick check — still interested in reducing post-demo drop-offs?\n\nIf not a priority, no worries — I can close the loop.\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T13:19:00Z",
+        "hs_object_id": "1203854628398",
+        "hs_timestamp": "2026-01-07T13:19:00Z"
+      },
+      "createdAt": "2026-01-07T13:19:00Z",
+      "updatedAt": "2026-01-07T13:19:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221203854628398%22%7D%5D"
+    },
+    {
+      "id": "822757183932",
+      "properties": {
+        "hs_createdate": "2026-01-07T09:12:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<56c7c4f2f1b836ce5caa@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Still interested, yes.\n\nJust busy week.\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T09:12:00Z",
+        "hs_object_id": "822757183932",
+        "hs_timestamp": "2026-01-07T09:12:00Z"
+      },
+      "createdAt": "2026-01-07T09:12:00Z",
+      "updatedAt": "2026-01-07T09:12:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22822757183932%22%7D%5D"
+    },
+    {
+      "id": "838078401656",
+      "properties": {
+        "hs_createdate": "2026-01-07T05:05:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<1e3e2d99d1c8d16f0d83@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Totally get it.\n\nTo make this worth it: I’ll come with a simple breakdown of your last 20 threads:\n- which reps lose leads after demo\n- what questions are being ignored\n- average response time + gap spikes\n\nIf you’re up for 20 mins, we can do it this week.\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T05:05:00Z",
+        "hs_object_id": "838078401656",
+        "hs_timestamp": "2026-01-07T05:05:00Z"
+      },
+      "createdAt": "2026-01-07T05:05:00Z",
+      "updatedAt": "2026-01-07T05:05:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22838078401656%22%7D%5D"
+    },
+    {
+      "id": "950597470178",
+      "properties": {
+        "hs_createdate": "2026-01-07T00:58:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<cb03a9b2e8bd2d8e1d14@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Following up with a quick question: are post-demo drop-offs a top-3 priority this quarter?\n\nIf not, I’ll stop bothering you 🙂\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-07T00:58:00Z",
+        "hs_object_id": "950597470178",
+        "hs_timestamp": "2026-01-07T00:58:00Z"
+      },
+      "createdAt": "2026-01-07T00:58:00Z",
+      "updatedAt": "2026-01-07T00:58:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22950597470178%22%7D%5D"
+    },
+    {
+      "id": "853066746859",
+      "properties": {
+        "hs_createdate": "2026-01-06T20:51:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<b37f2b07aa4a6f3b4f3d@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Hey Maya,\n\nWe’re evaluating a couple tools. Can you explain quickly what’s different vs Gong/Clari?\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T20:51:00Z",
+        "hs_object_id": "853066746859",
+        "hs_timestamp": "2026-01-06T20:51:00Z"
+      },
+      "createdAt": "2026-01-06T20:51:00Z",
+      "updatedAt": "2026-01-06T20:51:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22853066746859%22%7D%5D"
+    },
+    {
+      "id": "771661850758",
+      "properties": {
+        "hs_createdate": "2026-01-06T16:44:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<d13d1d83cba9d9d4fb3b@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Good question.\n\nGong/Clari are mostly deal-stage + call intelligence (SQL+). We focus earlier: lead-level risk before a deal exists.\n\nAlso: we don’t just summarize — we flag specific leakage patterns:\n- post-demo silence\n- intent drift\n- SDR mismatch (lead asks A, SDR answers B)\n- handoff completeness\n\nWe can integrate with Gong later, but you get value even with just CRM email history.\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T16:44:00Z",
+        "hs_object_id": "771661850758",
+        "hs_timestamp": "2026-01-06T16:44:00Z"
+      },
+      "createdAt": "2026-01-06T16:44:00Z",
+      "updatedAt": "2026-01-06T16:44:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22771661850758%22%7D%5D"
+    },
+    {
+      "id": "522905105206",
+      "properties": {
+        "hs_createdate": "2026-01-06T12:37:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<1dd0a2a2bd09c0df41d5@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Hey — can you share pricing range?\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T12:37:00Z",
+        "hs_object_id": "522905105206",
+        "hs_timestamp": "2026-01-06T12:37:00Z"
+      },
+      "createdAt": "2026-01-06T12:37:00Z",
+      "updatedAt": "2026-01-06T12:37:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22522905105206%22%7D%5D"
+    },
+    {
+      "id": "915544176196",
+      "properties": {
+        "hs_createdate": "2026-01-06T08:30:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<6f2e03f1e1b0471d1140@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind — follow-up",
+        "hs_email_text": "Pricing зависит от объёма, но обычно mid-market starts in the low five figures annually.\n\nIf you share rough SDR count + lead volume, I can ballpark it tighter.\n\nAlso happy to jump on a quick call — 20 mins.\n\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T08:30:00Z",
+        "hs_object_id": "915544176196",
+        "hs_timestamp": "2026-01-06T08:30:00Z"
+      },
+      "createdAt": "2026-01-06T08:30:00Z",
+      "updatedAt": "2026-01-06T08:30:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22915544176196%22%7D%5D"
+    },
+    {
+      "id": "793773225702",
+      "properties": {
+        "hs_createdate": "2026-01-06T04:23:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<d2a0b3f4c2a68f3be0c3@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Northwind — demo request",
+        "hs_email_text": "Hi Maya,\n\nSaw your note on post-demo drop-offs. We’re dealing with that.\n\nOpen to learn more.\n\n— Sam",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T04:23:00Z",
+        "hs_object_id": "793773225702",
+        "hs_timestamp": "2026-01-06T04:23:00Z"
+      },
+      "createdAt": "2026-01-06T04:23:00Z",
+      "updatedAt": "2026-01-06T04:23:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22793773225702%22%7D%5D"
+    },
+    {
+      "id": "950833593031",
+      "properties": {
+        "hs_createdate": "2026-01-06T00:16:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<3b2c5a9f1f8f7b2f5a1c@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Northwind — demo request",
+        "hs_email_text": "Hi Sam — thanks for checking out Northwind.\n\nYou mentioned post-demo drop-offs. We built a small risk engine that reads your email threads (HubSpot logged emails) and flags:\n- when a lead is “cooling”\n- which questions were ignored\n- where handoff is incomplete\n\nIf you’re open, I can show it on a real thread.\n\nDoes Thu 2pm ET or Fri 1pm ET work?\n— Maya",
+        "hs_email_thread_id": "6bb4f4a0f08f8e0c159cd0e8abf9d0ff",
+        "hs_lastmodifieddate": "2026-01-06T00:16:00Z",
+        "hs_object_id": "950833593031",
+        "hs_timestamp": "2026-01-06T00:16:00Z"
+      },
+      "createdAt": "2026-01-06T00:16:00Z",
+      "updatedAt": "2026-01-06T00:16:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22950833593031%22%7D%5D"
+    }
+  ]
+}
