@@ -1,0 +1,214 @@
+{
+  "total": 11,
+  "results": [
+    {
+      "id": "1036847848365",
+      "properties": {
+        "hs_createdate": "2026-01-07T07:03:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<0e6cd5167e10c29e3c1b@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Hey Maya — got it.\n\nCurrent MQL→SQL is ~18% (target 30%). Biggest drop is after demo.\n\nHappy to do a quick call. 11:30 ET works.\n\n— Alex",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-07T07:03:00Z",
+        "hs_object_id": "1036847848365",
+        "hs_timestamp": "2026-01-07T07:03:00Z"
+      },
+      "createdAt": "2026-01-07T07:03:00Z",
+      "updatedAt": "2026-01-07T07:03:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221036847848365%22%7D%5D"
+    },
+    {
+      "id": "1242923630090",
+      "properties": {
+        "hs_createdate": "2026-01-07T02:56:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<f1e0a2c6f6f7f3a2e4b2@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Perfect — locking 11:30 ET ✅\n\nQuick agenda:\n1) where leads stall post-demo (signals + timing)\n2) examples of “cooling” language + what SDR should do\n3) how we score handoff quality\n\nIf helpful, send 1–2 recent threads where a lead vanished after demo — I’ll pattern-match live.\n\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-07T02:56:00Z",
+        "hs_object_id": "1242923630090",
+        "hs_timestamp": "2026-01-07T02:56:00Z"
+      },
+      "createdAt": "2026-01-07T02:56:00Z",
+      "updatedAt": "2026-01-07T02:56:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221242923630090%22%7D%5D"
+    },
+    {
+      "id": "1242504638610",
+      "properties": {
+        "hs_createdate": "2026-01-06T22:49:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<7c8b7a1aa4f8507d2c5e@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Sounds good.\n\nTwo threads attached below (redacted). Also: our SDRs are split between Outreach sequences + manual follow-ups.\n\nQuestion: do you track response-time and follow-up gaps per rep?\n\n— Alex",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T22:49:00Z",
+        "hs_object_id": "1242504638610",
+        "hs_timestamp": "2026-01-06T22:49:00Z"
+      },
+      "createdAt": "2026-01-06T22:49:00Z",
+      "updatedAt": "2026-01-06T22:49:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221242504638610%22%7D%5D"
+    },
+    {
+      "id": "1071016454370",
+      "properties": {
+        "hs_createdate": "2026-01-06T18:42:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<c4e8d6a9b0d4c9e45c52@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Yep — we can compute it per rep + per lead:\n- avg SDR response time (lead → SDR)\n- unanswered streak\n- follow-up gap distribution (24h/48h/72h+)\n- “handoff completeness” flags\n\nWe’ll show it in plain English with links to exact messages.\n\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T18:42:00Z",
+        "hs_object_id": "1071016454370",
+        "hs_timestamp": "2026-01-06T18:42:00Z"
+      },
+      "createdAt": "2026-01-06T18:42:00Z",
+      "updatedAt": "2026-01-06T18:42:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%221071016454370%22%7D%5D"
+    },
+    {
+      "id": "904608162290",
+      "properties": {
+        "hs_createdate": "2026-01-06T14:35:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<52a77b2b54fae6e278b8@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Gotcha.\n\nAny chance you can tailor it to HubSpot objects + Outreach tasks? We’re messy.\n\nAlso: how do you avoid false positives? Some enterprise leads go quiet for a week.\n\n— Alex",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T14:35:00Z",
+        "hs_object_id": "904608162290",
+        "hs_timestamp": "2026-01-06T14:35:00Z"
+      },
+      "createdAt": "2026-01-06T14:35:00Z",
+      "updatedAt": "2026-01-06T14:35:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22904608162290%22%7D%5D"
+    },
+    {
+      "id": "568217251538",
+      "properties": {
+        "hs_createdate": "2026-01-06T10:28:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<8b8a8ff4ab4d3f0e0a45@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Yes on HubSpot + Outreach.\n\nOn false positives: мы не просто “тишина = риск”. Мы смотрим контекст:\n- была ли встреча/демо прямо перед тишиной\n- были ли friction сигналы (“need to think”, “pricing”, “later”)\n- сколько подряд писем SDR без ответа\n- тренд: деградация ответов (длинные → односложные)\n\nТо есть: “enterprise slow” ≠ “cooling lead”.\n\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T10:28:00Z",
+        "hs_object_id": "568217251538",
+        "hs_timestamp": "2026-01-06T10:28:00Z"
+      },
+      "createdAt": "2026-01-06T10:28:00Z",
+      "updatedAt": "2026-01-06T10:28:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22568217251538%22%7D%5D"
+    },
+    {
+      "id": "836959637472",
+      "properties": {
+        "hs_createdate": "2026-01-06T06:21:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<a356ce25a2d8a8f4b08e@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Quick follow-up (promise last nudge): if you share the rough volume (inbound leads/week) + SDR count, I’ll show the exact “leakage points” dashboard on the demo.\n\nStill good for 11:30 ET?\n\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T06:21:00Z",
+        "hs_object_id": "836959637472",
+        "hs_timestamp": "2026-01-06T06:21:00Z"
+      },
+      "createdAt": "2026-01-06T06:21:00Z",
+      "updatedAt": "2026-01-06T06:21:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22836959637472%22%7D%5D"
+    },
+    {
+      "id": "995095783643",
+      "properties": {
+        "hs_createdate": "2026-01-06T02:14:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<86d781d33c1d996f1a90@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Sorry — was in back-to-back demos.\n\nInbound leads: ~120/week. SDRs: 6.\n\nYes, 11:30 ET still good.\n\n— Alex",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-06T02:14:00Z",
+        "hs_object_id": "995095783643",
+        "hs_timestamp": "2026-01-06T02:14:00Z"
+      },
+      "createdAt": "2026-01-06T02:14:00Z",
+      "updatedAt": "2026-01-06T02:14:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22995095783643%22%7D%5D"
+    },
+    {
+      "id": "835298716684",
+      "properties": {
+        "hs_createdate": "2026-01-05T22:07:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<e34f7d65c9f4c0b7f0d3@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Thanks — that helps.\n\nWith 120/wk and 6 SDRs, the “leakage” usually comes from:\n- slow first response on certain sources\n- poor follow-up cadence after demo\n- mismatched replies (lead asks X, SDR answers Y)\n\nI’ll bring a quick scorecard template + examples.\n\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-05T22:07:00Z",
+        "hs_object_id": "835298716684",
+        "hs_timestamp": "2026-01-05T22:07:00Z"
+      },
+      "createdAt": "2026-01-05T22:07:00Z",
+      "updatedAt": "2026-01-05T22:07:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22835298716684%22%7D%5D"
+    },
+    {
+      "id": "630030747770",
+      "properties": {
+        "hs_createdate": "2026-01-05T18:00:00Z",
+        "hs_email_direction": "INCOMING_EMAIL",
+        "hs_email_message_id": "<e0dfcba4c9c4b7b82f5a@mail.gmail.com>",
+        "hs_email_status": null,
+        "hs_email_subject": "Re: Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Hey Maya,\n\nInteresting. We’re struggling exactly with “post-demo drop-offs”.\n\nCan you share a 2-min overview before we book time?\n\n— Alex",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-05T18:00:00Z",
+        "hs_object_id": "630030747770",
+        "hs_timestamp": "2026-01-05T18:00:00Z"
+      },
+      "createdAt": "2026-01-05T18:00:00Z",
+      "updatedAt": "2026-01-05T18:00:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22630030747770%22%7D%5D"
+    },
+    {
+      "id": "650315885592",
+      "properties": {
+        "hs_createdate": "2026-01-05T14:00:00Z",
+        "hs_email_direction": "EMAIL",
+        "hs_email_message_id": "<d0c0d5f2c7f8a0b3c0f9@zohomail.eu>",
+        "hs_email_status": "SENT",
+        "hs_email_subject": "Northwind (HubSpot+Outreach): reduce post-demo drop-offs",
+        "hs_email_text": "Hi Alex — saw your demo request and note about post-demo silence. Since you're running HubSpot + Outreach with 6 SDRs, we typically improve outcomes by:\n\n1. detecting “cooling leads” early (before they disappear), and\n2. enforcing handoff quality when a lead becomes SQL-ready.\n\nTwo quick questions so I tailor the demo:\n\nWhat’s your current MQL→SQL vs target?\nWhere is the biggest loss: no-show or after the demo?\n\nIf you’re open, I can show it on your real thread data. 20 mins.\n\nDoes tomorrow 11:30 ET or 15:00 ET work?\n— Maya",
+        "hs_email_thread_id": "1c11f3b8e7b2b44fd9337f73b6b00a79",
+        "hs_lastmodifieddate": "2026-01-05T14:00:00Z",
+        "hs_object_id": "650315885592",
+        "hs_timestamp": "2026-01-05T14:00:00Z"
+      },
+      "createdAt": "2026-01-05T14:00:00Z",
+      "updatedAt": "2026-01-05T14:00:00Z",
+      "archived": false,
+      "url": "https://app-eu1.hubspot.com/contacts/147477782/objects/0-49?filters=%5B%7B%22property%22%3A%22hs_object_id%22%2C%22operator%22%3A%22EQ%22%2C%22value%22%3A%22650315885592%22%7D%5D"
+    }
+  ]
+}
