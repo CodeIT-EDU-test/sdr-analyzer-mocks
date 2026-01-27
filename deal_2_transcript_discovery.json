@@ -1,0 +1,174 @@
+{
+  "meeting_id": "d2-m-001",
+  "deal_name": "Nordbyte Logistics — AI SDR Risk Pilot",
+  "company": {
+    "name": "Nordbyte Logistics",
+    "domain": "nordbyte.io"
+  },
+  "matched_calendar_invitee_email": "alex@nordbyte.io",
+  "started_at": "2026-02-12T10:00:00.000Z",
+  "ended_at": "2026-02-12T10:32:00.000Z",
+  "duration_seconds": 1920,
+  "participants": [
+    {
+      "name": "Alex Novak",
+      "email": "alex@nordbyte.io",
+      "role": "Head of RevOps",
+      "side": "lead"
+    },
+    {
+      "name": "Maya",
+      "email": "maya@yourco.ai",
+      "role": "SDR",
+      "side": "seller"
+    },
+    {
+      "name": "Sam",
+      "email": "sam@yourco.ai",
+      "role": "Account Executive",
+      "side": "seller"
+    }
+  ],
+  "transcript": [
+    {
+      "at": "00:00",
+      "speaker": "Maya",
+      "text": "Hi Alex, thanks for taking the time today. How are you?"
+    },
+    {
+      "at": "00:12",
+      "speaker": "Alex",
+      "text": "Doing well, thanks. Busy as usual, but all good."
+    },
+    {
+      "at": "00:28",
+      "speaker": "Maya",
+      "text": "Makes sense. Maybe to kick off — could you share a bit about how your inbound leads are currently handled?"
+    },
+    {
+      "at": "00:52",
+      "speaker": "Alex",
+      "text": "Sure. We have SDRs handling inbound, everything goes through HubSpot. On paper the funnel looks fine, but I’m not convinced we see the full picture."
+    },
+    {
+      "at": "01:25",
+      "speaker": "Sam",
+      "text": "When you say full picture — is that mostly around response times, or more about deal quality?"
+    },
+    {
+      "at": "01:44",
+      "speaker": "Alex",
+      "text": "Both, honestly. Some deals just… fade. No clear rejection, no close. They just stall."
+    },
+    {
+      "at": "02:18",
+      "speaker": "Maya",
+      "text": "That’s exactly the gap we’re usually looking at. Deals that look alive in CRM but are actually cooling off."
+    },
+    {
+      "at": "02:47",
+      "speaker": "Alex",
+      "text": "Yeah, that resonates. The challenge is proving that internally, not just going by gut feeling."
+    },
+    {
+      "at": "03:20",
+      "speaker": "Sam",
+      "text": "Understood. Our approach is to ground this in actual communication — emails and calls — rather than just stage changes."
+    },
+    {
+      "at": "03:58",
+      "speaker": "Alex",
+      "text": "That sounds promising. How invasive is that? In terms of data access, I mean."
+    },
+    {
+      "at": "04:32",
+      "speaker": "Maya",
+      "text": "We typically start with a limited scope. Specific deals, read-only access, and we anonymize where needed."
+    },
+    {
+      "at": "05:10",
+      "speaker": "Alex",
+      "text": "Okay. We’d definitely need security to look at that before anything serious."
+    },
+    {
+      "at": "05:42",
+      "speaker": "Sam",
+      "text": "Totally expected. We usually provide a short security overview and data flow doc for that."
+    },
+    {
+      "at": "06:18",
+      "speaker": "Alex",
+      "text": "Good. Another question is prioritization. We’re evaluating a few tools right now, so timing is a bit tricky."
+    },
+    {
+      "at": "06:54",
+      "speaker": "Maya",
+      "text": "Understood. Is this more of a Q1 or Q2 conversation for you?"
+    },
+    {
+      "at": "07:15",
+      "speaker": "Alex",
+      "text": "Hard to say. Depends on budget approvals and what we decide to push first."
+    },
+    {
+      "at": "07:48",
+      "speaker": "Sam",
+      "text": "Makes sense. If helpful, we could frame this as a small pilot rather than a full rollout."
+    },
+    {
+      "at": "08:22",
+      "speaker": "Alex",
+      "text": "Yeah, a pilot would be easier to sell internally."
+    },
+    {
+      "at": "08:55",
+      "speaker": "Maya",
+      "text": "What would you need to move that conversation forward on your side?"
+    },
+    {
+      "at": "09:20",
+      "speaker": "Alex",
+      "text": "Probably a concrete example — what the output looks like, what insights we’d actually get."
+    },
+    {
+      "at": "09:52",
+      "speaker": "Sam",
+      "text": "We can share a sample dashboard and a short write-up."
+    },
+    {
+      "at": "10:18",
+      "speaker": "Alex",
+      "text": "That would help. Then I can loop in finance and security."
+    },
+    {
+      "at": "10:48",
+      "speaker": "Maya",
+      "text": "Sounds good. We’ll send that over after the call."
+    },
+    {
+      "at": "11:10",
+      "speaker": "Alex",
+      "text": "Perfect."
+    },
+    {
+      "at": "11:28",
+      "speaker": "Sam",
+      "text": "Anything else you’d want us to include?"
+    },
+    {
+      "at": "11:46",
+      "speaker": "Alex",
+      "text": "Maybe something around ROI or benchmarks, if you have that."
+    },
+    {
+      "at": "12:10",
+      "speaker": "Maya",
+      "text": "Got it. We’ll follow up with materials and take it from there."
+    },
+    {
+      "at": "12:28",
+      "speaker": "Alex",
+      "text": "Sounds good. Thanks both."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "thread_id": "d2-security-4c8a1e9b6d72",
+  "deal_name": "Nordbyte Logistics — AI SDR Risk Pilot",
+  "company": {
+    "name": "Nordbyte Logistics",
+    "domain": "nordbyte.io"
+  },
+  "participants": [
+    {
+      "name": "Alex Novak",
+      "email": "alex@nordbyte.io",
+      "role": "Head of RevOps",
+      "side": "lead"
+    },
+    {
+      "name": "Iryna Koval",
+      "email": "iryna@nordbyte.io",
+      "role": "Finance / Procurement",
+      "side": "lead"
+    },
+    {
+      "name": "Security Team",
+      "email": "secops@nordbyte.io",
+      "role": "Security",
+      "side": "lead"
+    },
+    {
+      "name": "Maya",
+      "email": "maya@yourco.ai",
+      "role": "SDR",
+      "side": "seller"
+    },
+    {
+      "name": "Sam",
+      "email": "sam@yourco.ai",
+      "role": "Account Executive",
+      "side": "seller"
+    }
+  ],
+  "emails": [
+    {
+      "id": "d2-e-s-001",
+      "timestamp": "2026-02-12T13:05:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": ["sam@yourco.ai"],
+      "subject": "Materials from today + next steps",
+      "body": "Hi Alex,\n\nGreat speaking earlier.\n\nAs discussed, attaching:\n- Sample dashboard\n- Short overview of how we analyze SDR communication\n\nLet us know if this works as a starting point for internal review.\n\nBest,\nMaya"
+    },
+    {
+      "id": "d2-e-s-002",
+      "timestamp": "2026-02-13T09:42:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": ["iryna@nordbyte.io"],
+      "subject": "Re: Materials from today + next steps",
+      "body": "Hi Maya,\n\nThanks. Looping in Iryna from finance to review this from a budget perspective.\n\nAlex"
+    },
+    {
+      "id": "d2-e-s-003",
+      "timestamp": "2026-02-13T11:18:00.000Z",
+      "direction": "inbound",
+      "from": "iryna@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": ["alex@nordbyte.io"],
+      "subject": "Re: Materials from today + next steps",
+      "body": "Hi Maya,\n\nThanks for sharing. Do you have an indicative pricing range for a pilot? Also, what would the minimum contract term be?\n\nBest,\nIryna"
+    },
+    {
+      "id": "d2-e-s-004",
+      "timestamp": "2026-02-13T12:02:00.000Z",
+      "direction": "outbound",
+      "from": "sam@yourco.ai",
+      "to": ["iryna@nordbyte.io"],
+      "cc": ["alex@nordbyte.io", "maya@yourco.ai"],
+      "subject": "Re: Materials from today + next steps",
+      "body": "Hi Iryna,\n\nHappy to clarify. For pilots, we usually scope a limited number of deals over a short period, with flexible terms.\n\nI’ll send a concrete range shortly.\n\nBest,\nSam"
+    },
+    {
+      "id": "d2-e-s-005",
+      "timestamp": "2026-02-14T10:37:00.000Z",
+      "direction": "inbound",
+      "from": "secops@nordbyte.io",
+      "to": ["sam@yourco.ai"],
+      "cc": ["alex@nordbyte.io"],
+      "subject": "Security review",
+      "body": "Hello,\n\nBefore proceeding, we’ll need to review your data handling and security practices.\n\nPlease share any available documentation on:\n- Data access and storage\n- Retention policies\n- Compliance certifications\n\nRegards,\nNordbyte Security"
+    },
+    {
+      "id": "d2-e-s-006",
+      "timestamp": "2026-02-14T11:05:00.000Z",
+      "direction": "outbound",
+      "from": "sam@yourco.ai",
+      "to": ["secops@nordbyte.io"],
+      "cc": ["alex@nordbyte.io", "maya@yourco.ai"],
+      "subject": "Re: Security review",
+      "body": "Hi,\n\nThanks for flagging. We have a standard security overview and data flow document we can share.\n\nWill send that over shortly.\n\nBest,\nSam"
+    },
+    {
+      "id": "d2-e-s-007",
+      "timestamp": "2026-02-15T16:44:00.000Z",
+      "direction": "outbound",
+      "from": "sam@yourco.ai",
+      "to": ["iryna@nordbyte.io"],
+      "cc": ["alex@nordbyte.io"],
+      "subject": "Pilot pricing follow-up",
+      "body": "Hi Iryna,\n\nFollowing up with a rough range for the pilot we discussed. Let me know if this aligns with expectations.\n\nBest,\nSam"
+    },
+    {
+      "id": "d2-e-s-008",
+      "timestamp": "2026-02-16T09:12:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Checking in",
+      "body": "Hi Alex,\n\nJust checking if the materials we sent are sufficient for now, or if there’s anything else we can provide to unblock things.\n\nMaya"
+    },
+    {
+      "id": "d2-e-s-009",
+      "timestamp": "2026-02-17T15:26:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": [],
+      "subject": "Re: Checking in",
+      "body": "Hey Maya,\n\nThanks for the ping. We’re still reviewing internally, especially on security and budget. Might take a bit longer than expected.\n\nAlex"
+    }
+  ]
+}

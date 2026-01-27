@@ -1,0 +1,104 @@
+{
+  "meeting_id": "d2-m-002",
+  "deal_name": "Nordbyte Logistics — AI SDR Risk Pilot",
+  "company": {
+    "name": "Nordbyte Logistics",
+    "domain": "nordbyte.io"
+  },
+  "matched_calendar_invitee_email": "alex@nordbyte.io",
+  "started_at": "2026-02-17T14:00:00.000Z",
+  "ended_at": "2026-02-17T14:18:00.000Z",
+  "duration_seconds": 1080,
+  "participants": [
+    {
+      "name": "Alex Novak",
+      "email": "alex@nordbyte.io",
+      "role": "Head of RevOps",
+      "side": "lead"
+    },
+    {
+      "name": "Maya",
+      "email": "maya@yourco.ai",
+      "role": "SDR",
+      "side": "seller"
+    },
+    {
+      "name": "Sam",
+      "email": "sam@yourco.ai",
+      "role": "Account Executive",
+      "side": "seller"
+    }
+  ],
+  "transcript": [
+    {
+      "at": "00:00",
+      "speaker": "Maya",
+      "text": "Hi Alex, thanks for jumping on again. We thought it might be useful to quickly align after you had a chance to review the materials."
+    },
+    {
+      "at": "00:18",
+      "speaker": "Alex",
+      "text": "Yeah, no problem. We’ve gone through most of it internally."
+    },
+    {
+      "at": "00:36",
+      "speaker": "Sam",
+      "text": "Great. Were there any major concerns or open questions we can help clarify?"
+    },
+    {
+      "at": "00:55",
+      "speaker": "Alex",
+      "text": "Nothing blocking per se. It’s more about prioritization right now."
+    },
+    {
+      "at": "01:22",
+      "speaker": "Maya",
+      "text": "Understood. Is that mainly on the budget side or security?"
+    },
+    {
+      "at": "01:40",
+      "speaker": "Alex",
+      "text": "A bit of both. Security always takes longer than expected, and finance wants to see how this compares to other initiatives."
+    },
+    {
+      "at": "02:18",
+      "speaker": "Sam",
+      "text": "Makes sense. From our side, we’re happy to keep this lightweight and flexible."
+    },
+    {
+      "at": "02:46",
+      "speaker": "Alex",
+      "text": "Yeah, that helps. I just can’t commit to a concrete timeline yet."
+    },
+    {
+      "at": "03:14",
+      "speaker": "Maya",
+      "text": "Would it make sense to check back in, say, in a couple of weeks?"
+    },
+    {
+      "at": "03:32",
+      "speaker": "Alex",
+      "text": "Sure, that should be fine."
+    },
+    {
+      "at": "03:58",
+      "speaker": "Sam",
+      "text": "In the meantime, is there anything else you’d need from us?"
+    },
+    {
+      "at": "04:16",
+      "speaker": "Alex",
+      "text": "Not at the moment. If something comes up, I’ll reach out."
+    },
+    {
+      "at": "04:42",
+      "speaker": "Maya",
+      "text": "Sounds good. Thanks again for the time."
+    },
+    {
+      "at": "05:00",
+      "speaker": "Alex",
+      "text": "Thanks."
+    }
+  ]
+}

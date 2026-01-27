@@ -1,0 +1,150 @@
+{
+  "thread_id": "d2-discovery-9f3c1b2e7a4d",
+  "deal_name": "Nordbyte Logistics — AI SDR Risk Pilot",
+  "company": {
+    "name": "Nordbyte Logistics",
+    "domain": "nordbyte.io"
+  },
+  "participants": [
+    {
+      "name": "Alex Novak",
+      "email": "alex@nordbyte.io",
+      "role": "Head of RevOps",
+      "side": "lead"
+    },
+    {
+      "name": "Maya",
+      "email": "maya@yourco.ai",
+      "role": "SDR",
+      "side": "seller"
+    },
+    {
+      "name": "Sam",
+      "email": "sam@yourco.ai",
+      "role": "Account Executive",
+      "side": "seller"
+    }
+  ],
+  "emails": [
+    {
+      "id": "d2-e-001",
+      "timestamp": "2026-02-03T09:12:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Quick intro — reducing lead drop-offs at Nordbyte",
+      "body": "Hi Alex,\n\nCame across Nordbyte while looking at logistics teams scaling inbound sales.\n\nWe’re working with RevOps teams to identify where leads stall or silently drop out of the funnel — especially between first contact and qualification.\n\nWorth a short intro call to see if this is relevant for you?\n\nBest,\nMaya"
+    },
+    {
+      "id": "d2-e-002",
+      "timestamp": "2026-02-04T15:47:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": [],
+      "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
+      "body": "Hi Maya,\n\nSounds potentially interesting. Can you share a bit more on how you approach this?\n\nAlex"
+    },
+    {
+      "id": "d2-e-003",
+      "timestamp": "2026-02-04T16:10:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
+      "body": "Sure.\n\nIn short: we analyze real SDR communication (emails + meetings) and surface risk patterns — slow response times, unclear next steps, soft objections, internal blockers.\n\nTeams use this to catch deals that *look alive* in CRM but are actually cooling off.\n\nIf helpful, happy to walk through a concrete example in 20 min.\n\nMaya"
+    },
+    {
+      "id": "d2-e-004",
+      "timestamp": "2026-02-06T10:22:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Following up",
+      "body": "Hi Alex,\n\nJust checking if a short intro makes sense on your side.\n\nMaya"
+    },
+    {
+      "id": "d2-e-005",
+      "timestamp": "2026-02-07T08:41:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": [],
+      "subject": "Re: Following up",
+      "body": "Hey Maya,\n\nYeah, let's do a quick call. Early next week should work.\n\nAlex"
+    },
+    {
+      "id": "d2-e-006",
+      "timestamp": "2026-02-07T09:05:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Re: Following up",
+      "body": "Great. How does Tuesday or Wednesday look?\n\nMaya"
+    },
+    {
+      "id": "d2-e-007",
+      "timestamp": "2026-02-09T14:18:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Scheduling",
+      "body": "Hi Alex,\n\nJust looping back on timing for our call.\n\nMaya"
+    },
+    {
+      "id": "d2-e-008",
+      "timestamp": "2026-02-10T07:56:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": [],
+      "subject": "Re: Scheduling",
+      "body": "Sorry for the delay. Wednesday 15:00 UTC works.\n\nAlex"
+    },
+    {
+      "id": "d2-e-009",
+      "timestamp": "2026-02-10T08:10:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": ["sam@yourco.ai"],
+      "subject": "Invite — Intro call",
+      "body": "Perfect. Sending a calendar invite now.\n\nLooping in Sam from our side as well.\n\nMaya"
+    },
+    {
+      "id": "d2-e-010",
+      "timestamp": "2026-02-12T11:32:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Next steps",
+      "body": "Hi Alex,\n\nThanks again for the conversation earlier.\n\nHappy to share a short summary + example dashboard we discussed. Let me know if that helps move this forward.\n\nMaya"
+    },
+    {
+      "id": "d2-e-011",
+      "timestamp": "2026-02-14T09:58:00.000Z",
+      "direction": "outbound",
+      "from": "maya@yourco.ai",
+      "to": ["alex@nordbyte.io"],
+      "cc": [],
+      "subject": "Following up on next steps",
+      "body": "Hi Alex,\n\nWanted to check if you had a chance to review the summary.\n\nMaya"
+    },
+    {
+      "id": "d2-e-012",
+      "timestamp": "2026-02-17T16:21:00.000Z",
+      "direction": "inbound",
+      "from": "alex@nordbyte.io",
+      "to": ["maya@yourco.ai"],
+      "cc": [],
+      "subject": "Re: Following up on next steps",
+      "body": "Hey Maya,\n\nStill discussing this internally. Will get back to you once we align on priorities.\n\nAlex"
+    }
+  ]
+}
