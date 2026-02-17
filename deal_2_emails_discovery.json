@@ -28,7 +28,7 @@
   "emails": [
     {
       "id": "d2-e-001",
-      "timestamp": "2026-02-03T09:12:00.000Z",
+      "timestamp": "2026-01-30T09:12:00.000Z",
       "direction": "outbound",
       "from": "maya@yourco.ai",
       "to": ["alex@nordbyte.io"],
@@ -44,7 +44,7 @@
       "to": ["maya@yourco.ai"],
       "cc": [],
       "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
-      "body": "Hi Maya,\n\nSounds potentially interesting. Can you share a bit more on how you approach this?\n\nAlex"
+      "body": "Hi Maya,\n\nSorry for the slow reply — been swamped.\n\nThis looks interesting. Happy to learn more — we’re exploring a couple options around funnel visibility.\n\nCan you share a bit more on how you approach this?\n\nAlex"
     },
     {
       "id": "d2-e-003",
@@ -54,7 +54,7 @@
       "to": ["alex@nordbyte.io"],
       "cc": [],
       "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
-      "body": "Sure.\n\nIn short: we analyze real SDR communication (emails + meetings) and surface risk patterns — slow response times, unclear next steps, soft objections, internal blockers.\n\nTeams use this to catch deals that *look alive* in CRM but are actually cooling off.\n\nIf helpful, happy to walk through a concrete example in 20 min.\n\nMaya"
+      "body": "Sure.\n\nIn short: we analyze real SDR communication (emails + meetings) and surface risk patterns — slow response times, unclear next steps, soft objections, internal dependencies.\n\nTeams use this to catch deals that *look alive* in CRM but are drifting in intent.\n\nIf helpful, happy to walk through a concrete example in ~20 min.\n\nMaya"
     },
     {
       "id": "d2-e-004",
@@ -74,7 +74,7 @@
       "to": ["maya@yourco.ai"],
       "cc": [],
       "subject": "Re: Following up",
-      "body": "Hey Maya,\n\nYeah, let's do a quick call. Early next week should work.\n\nAlex"
+      "body": "Hey Maya,\n\nYeah, let’s do a quick call. Early next week should work.\n\nJust to set expectations: I’m not the final decision maker — Procurement usually runs vendor onboarding and InfoSec will weigh in. I can intro you to our IT lead if we decide to keep going.\n\nAlex"
     },
     {
       "id": "d2-e-006",
@@ -84,7 +84,7 @@
       "to": ["alex@nordbyte.io"],
       "cc": [],
       "subject": "Re: Following up",
-      "body": "Great. How does Tuesday or Wednesday look?\n\nMaya"
+      "body": "Great, thanks.\n\nHow does Tuesday or Wednesday look?\n\nMaya"
     },
     {
       "id": "d2-e-007",
@@ -94,7 +94,7 @@
       "to": ["alex@nordbyte.io"],
       "cc": [],
       "subject": "Scheduling",
-      "body": "Hi Alex,\n\nJust looping back on timing for our call.\n\nMaya"
+      "body": "Hi Alex,\n\nJust looping back on timing for our call.\n\nWould Thu 10:00 UTC work for a quick 20-minute intro?\n\nMaya"
     },
     {
       "id": "d2-e-008",
@@ -104,7 +104,7 @@
       "to": ["maya@yourco.ai"],
       "cc": [],
       "subject": "Re: Scheduling",
-      "body": "Sorry for the delay. Wednesday 15:00 UTC works.\n\nAlex"
+      "body": "Sorry for the delay. Thu 10:00 UTC works.\n\nAlex"
     },
     {
       "id": "d2-e-009",
@@ -114,7 +114,7 @@
       "to": ["alex@nordbyte.io"],
       "cc": ["sam@yourco.ai"],
       "subject": "Invite — Intro call",
-      "body": "Perfect. Sending a calendar invite now.\n\nLooping in Sam from our side as well.\n\nMaya"
+      "body": "Perfect. Sending a calendar invite for Thu 10:00 UTC now.\n\nLooping in Sam from our side as well.\n\nMaya"
     },
     {
       "id": "d2-e-010",
@@ -124,27 +124,27 @@
       "to": ["alex@nordbyte.io"],
       "cc": [],
       "subject": "Next steps",
-      "body": "Hi Alex,\n\nThanks again for the conversation earlier.\n\nHappy to share a short summary + example dashboard we discussed. Let me know if that helps move this forward.\n\nMaya"
+      "body": "Hi Alex,\n\nThanks again for the conversation earlier.\n\nAs promised, here’s a short summary + example dashboard.\n\nNo rush, but when you have a minute: does this feel like something on your roadmap this quarter, or more “when capacity frees up”?\n\nAnd if it makes sense, happy to include the business owner on a future check-in once the process side is clearer.\n\nEither way, feel free to forward to Procurement/InfoSec if it’s helpful.\n\nMaya"
     },
     {
       "id": "d2-e-011",
-      "timestamp": "2026-02-14T09:58:00.000Z",
+      "timestamp": "2026-02-16T09:10:00.000Z",
       "direction": "outbound",
       "from": "maya@yourco.ai",
       "to": ["alex@nordbyte.io"],
       "cc": [],
       "subject": "Following up on next steps",
-      "body": "Hi Alex,\n\nWanted to check if you had a chance to review the summary.\n\nMaya"
+      "body": "Hi Alex,\n\nWanted to check if you had a chance to review the summary.\n\nIf helpful, we can do a quick 15-min check-in tomorrow (Tue) at 14:00 UTC to align on timeline + process.\n\nMaya"
     },
     {
       "id": "d2-e-012",
-      "timestamp": "2026-02-17T16:21:00.000Z",
+      "timestamp": "2026-02-16T12:40:00.000Z",
       "direction": "inbound",
       "from": "alex@nordbyte.io",
       "to": ["maya@yourco.ai"],
       "cc": [],
       "subject": "Re: Following up on next steps",
-      "body": "Hey Maya,\n\nStill discussing this internally. Will get back to you once we align on priorities.\n\nAlex"
+      "body": "Hey Maya,\n\nThanks. Still discussing internally.\n\nThis is on our roadmap, but timing is unclear right now (Q1 is packed). Hard to say what success would look like yet.\n\nTue 14:00 UTC works for a quick check-in.\n\nAlex"
     }
   ]
 }
