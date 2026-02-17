@@ -21,7 +21,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "I have us for 15 minutes. My goal is to confirm the problem, make sure we're even relevant for HubSpot + Outreach, and then we can decide next step. Sound good?",
+      "text": "I have us for 15 minutes for a quick calibration before the deeper demo Friday at 1pm ET. My goal is to confirm the problem, make sure we're even relevant for HubSpot + Outreach, and then we can decide next step. Sound good?",
       "timestamp": "00:00:18"
     },
     {
@@ -93,7 +93,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "Ok.",
+      "text": "Ok. Yeah — right now it’s a lot of manual gut-checking on threads before forecast.",
       "timestamp": "00:02:34"
     },
     {
@@ -189,7 +189,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "How heavy is the setup? We don't have bandwidth for a long implementation right now.",
+      "text": "My only concern is implementation time — we can’t afford a long rollout.",
       "timestamp": "00:06:14"
     },
     {
@@ -213,7 +213,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "You mentioned you're also looking at Gong. Is that primarily for call recording and coaching, or for forecasting/health signals?",
+      "text": "You mentioned you already have call recording/coaching covered. Is your main gap that a lot of leakage happens over email after the demo?",
       "timestamp": "00:07:03"
     },
     {
@@ -221,7 +221,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "Mostly call coaching. They pitch pipeline health too, but it's very call-centric. Our issue is a lot of leakage happens over email after demo.",
+      "text": "Exactly. Calls are fine. The leakage is the back-and-forth after demo: vague deferrals, slow replies, then silence.",
       "timestamp": "00:07:18"
     },
     {
@@ -229,7 +229,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "That makes sense. We can complement Gong if you end up there, because we're analyzing the thread momentum and the gaps between touches, not just what's said on calls.",
+      "text": "Makes sense. That’s where we’re strongest: thread momentum, gaps between touches, and whether the lead is actually committing to a next step.",
       "timestamp": "00:07:43"
     },
     {
@@ -237,7 +237,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "Security is going to come up. Our CTO will ask about data handling and SOC2.",
+      "text": "Security is going to come up. Our CTO will ask about data handling, SOC2, and SSO.",
       "timestamp": "00:08:01"
     },
     {
@@ -245,7 +245,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Understood. We have a standard security overview we can share, and SOC2 documentation available. We also support least-privilege access and can scope what we ingest. I can send the overview right after this.",
+      "text": "Understood. We have a short security one-pager + SOC2 documentation, and I can share a high-level architecture diagram. We also support least-privilege access, encryption in transit/at rest, and can scope what we ingest. I’ll send the overview right after this.",
       "timestamp": "00:08:15"
     },
     {
@@ -269,7 +269,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "That's within range. But I still need VP sign-off.",
+      "text": "That's within range. But I still need Finance/CFO sign-off.",
       "timestamp": "00:09:11"
     },
     {
@@ -277,7 +277,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Makes sense. For the VP, we usually provide a one-pager that explains: what we detect, what actions we recommend, and what success looks like in the first 30 days. Would that help?",
+      "text": "Makes sense. For Finance, we usually provide a one-pager that explains: what we detect, what actions we recommend, and what success looks like in the first 30 days (plus a simple pricing/terms overview). Would that help?",
       "timestamp": "00:09:23"
     },
     {
@@ -309,7 +309,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Understood. And decision process: VP Sales is the approver, CTO gates security, and you run the evaluation. Is that accurate?",
+      "text": "Understood. And decision process: CFO/Finance is the approver, CTO sanity-checks security, and you run the evaluation and rollout. Is that accurate?",
       "timestamp": "00:10:36"
     },
     {
@@ -317,7 +317,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "Yeah. That's basically it.",
+      "text": "Yeah, that’s basically it. I can champion it internally, but CFO will want the pricing/terms spelled out.",
       "timestamp": "00:10:52"
     },
     {
@@ -325,7 +325,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Perfect. Next step on my side: I'll send a short one-pager for your VP plus the security overview for your CTO. If it makes sense, we can schedule a deeper demo with an AE once your VP is aligned.",
+      "text": "Perfect. Next steps on my side: I’ll send the deck + pricing options by Thursday EOD (before Friday 1pm ET), plus the security one-pager and architecture diagram for your CTO. I’ll send a short recap right after the demo.\n\nOn your side: if you can loop in your Ops lead and a Finance partner, let’s do the deeper demo Friday at 1pm ET, then we’ll schedule a 20-min follow-up early next week.",
       "timestamp": "00:11:01"
     },
     {
@@ -341,7 +341,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Before we wrap: is there anything that would immediately disqualify us? Like required integrations, strict data residency, or a pricing cap.",
+      "text": "Before we wrap: is there anything I should know that could slow this down? Like required integrations, strict data residency, or a hard timeline constraint.",
       "timestamp": "00:11:36"
     },
     {
@@ -349,7 +349,7 @@
         "display_name": "Alex",
         "matched_calendar_invitee_email": "alexander.lee.np@zohomail.eu"
       },
-      "text": "If security isn't solid, we're out. And if the VP thinks it overlaps too much with Gong, he'll kill it.",
+      "text": "Security will need to be comfortable, and Finance will want clarity on what data you ingest and the contract terms. Otherwise it’s mainly: does this actually reduce the post-demo leakage.",
       "timestamp": "00:11:53"
     },
     {
@@ -357,7 +357,7 @@
         "display_name": "Maya",
         "matched_calendar_invitee_email": "maya.sdr@zohomail.eu"
       },
-      "text": "Got it. I'll keep the materials focused on email leakage and post-demo momentum, not call coaching. And I'll keep the security piece straightforward.",
+      "text": "Got it. I’ll keep the materials focused on email leakage and post-demo momentum, and keep the security summary straightforward.",
       "timestamp": "00:12:14"
     },
     {
