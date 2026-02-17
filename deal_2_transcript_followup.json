@@ -38,7 +38,7 @@
     {
       "at": "00:18",
       "speaker": "Alex",
-      "text": "Yeah, no problem. We’ve gone through most of it internally."
+      "text": "Yeah, no problem. We’ve gone through most of it internally, but it’s still a bit in-flight."
     },
     {
       "at": "00:36",
@@ -48,7 +48,7 @@
     {
       "at": "00:55",
       "speaker": "Alex",
-      "text": "Nothing blocking per se. It’s more about prioritization right now."
+      "text": "Nothing blocking per se. It’s more about prioritization and process right now."
     },
     {
       "at": "01:22",
@@ -58,7 +58,12 @@
     {
       "at": "01:40",
       "speaker": "Alex",
-      "text": "A bit of both. Security always takes longer than expected, and finance wants to see how this compares to other initiatives."
+      "text": "A bit of both. Security always takes longer than expected, and procurement wants to run vendor onboarding before anything moves.\n\nInfoSec is currently backlogged, so we’re waiting on security to pick it up. And we’re still coordinating internally on who actually owns the vendor onboarding steps vs the vendor-management inbox."
+    },
+    {
+      "at": "02:10",
+      "speaker": "Maya",
+      "text": "Makes sense. To help us plan: is there a rough window we should work toward? Even a “late Feb vs March” type answer."
     },
     {
       "at": "02:18",
@@ -68,37 +73,42 @@
     {
       "at": "02:46",
       "speaker": "Alex",
-      "text": "Yeah, that helps. I just can’t commit to a concrete timeline yet."
+      "text": "Yeah, that helps. I just can’t commit to a concrete timeline yet. Not sure about timeline until security and procurement give us a slot."
+    },
+    {
+      "at": "03:02",
+      "speaker": "Sam",
+      "text": "Understood. If we send the SOC 2 + DPA + architecture diagram to vendor-management@nordbyte.io today, does that help get you unblocked on the onboarding side? And if there’s an onboarding form link we should fill out, send it over."
     },
     {
       "at": "03:14",
       "speaker": "Maya",
-      "text": "Would it make sense to check back in, say, in a couple of weeks?"
+      "text": "Would it make sense to check back in, say, in a couple of weeks? Or would you prefer we wait until InfoSec reaches the top of the queue?"
     },
     {
       "at": "03:32",
       "speaker": "Alex",
-      "text": "Sure, that should be fine."
+      "text": "Sure, that should be fine.\n\nAlso, just to flag: the business owner isn’t on this call, so I’m mostly coordinating process right now."
     },
     {
       "at": "03:58",
       "speaker": "Sam",
-      "text": "In the meantime, is there anything else you’d need from us?"
+      "text": "In the meantime, is there anything else you’d need from us? And when you’re ready, happy to include the business owner on a short check-in."
     },
     {
       "at": "04:16",
       "speaker": "Alex",
-      "text": "Not at the moment. If something comes up, I’ll reach out."
+      "text": "Not at the moment. If something comes up, I’ll reach out.\n\nProcurement will handle next steps once we’re through security."
     },
     {
       "at": "04:42",
       "speaker": "Maya",
-      "text": "Sounds good. Thanks again for the time."
+      "text": "Sounds good. We’ll send over the updated docs and you can route them internally."
     },
     {
       "at": "05:00",
       "speaker": "Alex",
-      "text": "Thanks."
+      "text": "Thanks. We’ll get back to you once we have an update."
     }
   ]
 }
