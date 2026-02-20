@@ -1,10 +1,14 @@
 {
-  "thread_id": "d2-discovery-9f3c1b2e7a4d",
+  "meeting_id": "d2-m-001",
   "deal_name": "Nordbyte Logistics — AI SDR Risk Pilot",
   "company": {
     "name": "Nordbyte Logistics",
     "domain": "nordbyte.io"
   },
+  "matched_calendar_invitee_email": "alex@nordbyte.io",
+  "started_at": "2026-02-12T10:00:00.000Z",
+  "ended_at": "2026-02-12T10:32:00.000Z",
+  "duration_seconds": 1920,
   "participants": [
     {
       "name": "Alex Novak",
@@ -25,126 +29,146 @@
       "side": "seller"
     }
   ],
-  "emails": [
+  "transcript": [
     {
-      "id": "d2-e-001",
-      "timestamp": "2026-01-30T09:12:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Quick intro — reducing lead drop-offs at Nordbyte",
-      "body": "Hi Alex,\n\nCame across Nordbyte while looking at logistics teams scaling inbound sales.\n\nWe’re working with RevOps teams to identify where leads stall or silently drop out of the funnel — especially between first contact and qualification.\n\nWorth a short intro call to see if this is relevant for you?\n\nBest,\nMaya"
+      "at": "00:00",
+      "speaker": "Maya",
+      "text": "Hi Alex, thanks for taking the time today. How are you?"
     },
     {
-      "id": "d2-e-002",
-      "timestamp": "2026-02-04T15:47:00.000Z",
-      "direction": "inbound",
-      "from": "alex@nordbyte.io",
-      "to": ["maya@yourco.ai"],
-      "cc": [],
-      "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
-      "body": "Hi Maya,\n\nSorry for the slow reply — been swamped.\n\nThis looks interesting. Happy to learn more — we’re exploring a couple options around funnel visibility.\n\nCan you share a bit more on how you approach this?\n\nAlex"
+      "at": "00:12",
+      "speaker": "Alex",
+      "text": "Doing well, thanks. Busy as usual, but all good."
     },
     {
-      "id": "d2-e-003",
-      "timestamp": "2026-02-04T16:10:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Re: Quick intro — reducing lead drop-offs at Nordbyte",
-      "body": "Sure.\n\nIn short: we analyze real SDR communication (emails + meetings) and surface risk patterns — slow response times, unclear next steps, soft objections, internal dependencies.\n\nTeams use this to catch deals that *look alive* in CRM but are drifting in intent.\n\nIf helpful, happy to walk through a concrete example in ~20 min.\n\nMaya"
+      "at": "00:28",
+      "speaker": "Maya",
+      "text": "Makes sense. Maybe to kick off — could you share a bit about how your inbound leads are currently handled?"
     },
     {
-      "id": "d2-e-004",
-      "timestamp": "2026-02-06T10:22:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Following up",
-      "body": "Hi Alex,\n\nJust checking if a short intro makes sense on your side.\n\nMaya"
+      "at": "00:52",
+      "speaker": "Alex",
+      "text": "Sure. We have SDRs handling inbound, everything goes through HubSpot. On paper the funnel looks fine, but I’m not convinced we see the full picture."
     },
     {
-      "id": "d2-e-005",
-      "timestamp": "2026-02-07T08:41:00.000Z",
-      "direction": "inbound",
-      "from": "alex@nordbyte.io",
-      "to": ["maya@yourco.ai"],
-      "cc": [],
-      "subject": "Re: Following up",
-      "body": "Hey Maya,\n\nYeah, let’s do a quick call. Early next week should work.\n\nJust to set expectations: I’m not the final decision maker — Procurement usually runs vendor onboarding and InfoSec will weigh in. I can intro you to our IT lead if we decide to keep going.\n\nAlex"
+      "at": "01:25",
+      "speaker": "Sam",
+      "text": "When you say full picture — is that mostly around response times, or more about deal quality?"
     },
     {
-      "id": "d2-e-006",
-      "timestamp": "2026-02-07T09:05:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Re: Following up",
-      "body": "Great, thanks.\n\nHow does Tuesday or Wednesday look?\n\nMaya"
+      "at": "01:44",
+      "speaker": "Alex",
+      "text": "Both, honestly. Some deals just… fade. No clear rejection, no close. They just stall."
     },
     {
-      "id": "d2-e-007",
-      "timestamp": "2026-02-09T14:18:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Scheduling",
-      "body": "Hi Alex,\n\nJust looping back on timing for our call.\n\nWould Thu 10:00 UTC work for a quick 20-minute intro?\n\nMaya"
+      "at": "02:18",
+      "speaker": "Maya",
+      "text": "That’s exactly the gap we’re usually looking at. Deals that look alive in CRM but are actually cooling off."
     },
     {
-      "id": "d2-e-008",
-      "timestamp": "2026-02-10T07:56:00.000Z",
-      "direction": "inbound",
-      "from": "alex@nordbyte.io",
-      "to": ["maya@yourco.ai"],
-      "cc": [],
-      "subject": "Re: Scheduling",
-      "body": "Sorry for the delay. Thu 10:00 UTC works.\n\nAlex"
+      "at": "02:47",
+      "speaker": "Alex",
+      "text": "Yeah, that resonates. The challenge is proving that internally, not just going by gut feeling."
     },
     {
-      "id": "d2-e-009",
-      "timestamp": "2026-02-10T08:10:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": ["sam@yourco.ai"],
-      "subject": "Invite — Intro call",
-      "body": "Perfect. Sending a calendar invite for Thu 10:00 UTC now.\n\nLooping in Sam from our side as well.\n\nMaya"
+      "at": "03:20",
+      "speaker": "Sam",
+      "text": "Understood. Our approach is to ground this in actual communication — emails and calls — rather than just stage changes."
     },
     {
-      "id": "d2-e-010",
-      "timestamp": "2026-02-12T11:32:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Next steps",
-      "body": "Hi Alex,\n\nThanks again for the conversation earlier.\n\nAs promised, here’s a short summary + example dashboard.\n\nNo rush, but when you have a minute: does this feel like something on your roadmap this quarter, or more “when capacity frees up”?\n\nAnd if it makes sense, happy to include the business owner on a future check-in once the process side is clearer.\n\nEither way, feel free to forward to Procurement/InfoSec if it’s helpful.\n\nMaya"
+      "at": "03:58",
+      "speaker": "Alex",
+      "text": "That sounds promising. How invasive is that? In terms of data access, I mean."
     },
     {
-      "id": "d2-e-011",
-      "timestamp": "2026-02-16T09:10:00.000Z",
-      "direction": "outbound",
-      "from": "maya@yourco.ai",
-      "to": ["alex@nordbyte.io"],
-      "cc": [],
-      "subject": "Following up on next steps",
-      "body": "Hi Alex,\n\nWanted to check if you had a chance to review the summary.\n\nIf helpful, we can do a quick 15-min check-in tomorrow (Tue) at 14:00 UTC to align on timeline + process.\n\nMaya"
+      "at": "04:32",
+      "speaker": "Maya",
+      "text": "We typically start with a limited scope. Specific deals, read-only access, and we anonymize where needed."
     },
     {
-      "id": "d2-e-012",
-      "timestamp": "2026-02-16T12:40:00.000Z",
-      "direction": "inbound",
-      "from": "alex@nordbyte.io",
-      "to": ["maya@yourco.ai"],
-      "cc": [],
-      "subject": "Re: Following up on next steps",
-      "body": "Hey Maya,\n\nThanks. Still discussing internally.\n\nThis is on our roadmap, but timing is unclear right now (Q1 is packed). Hard to say what success would look like yet.\n\nTue 14:00 UTC works for a quick check-in.\n\nAlex"
+      "at": "05:10",
+      "speaker": "Alex",
+      "text": "Okay. We’d definitely need security to look at that before anything serious."
+    },
+    {
+      "at": "05:42",
+      "speaker": "Sam",
+      "text": "Totally expected. We usually provide a short security overview and data flow doc for that."
+    },
+    {
+      "at": "06:18",
+      "speaker": "Alex",
+      "text": "Good. Another question is prioritization. This is interesting, but Q1 is packed — we’re still evaluating whether this is a priority.\n\nWe might revisit after our current initiative wraps."
+    },
+    {
+      "at": "06:54",
+      "speaker": "Maya",
+      "text": "Understood. Is this more of a Q1 or Q2 conversation for you?"
+    },
+    {
+      "at": "07:15",
+      "speaker": "Alex",
+      "text": "Hard to say. Depends on budget approvals, procurement/vendor onboarding, and what we decide to push first."
+    },
+    {
+      "at": "07:48",
+      "speaker": "Sam",
+      "text": "Makes sense. If helpful, we could frame this as a small pilot rather than a full rollout."
+    },
+    {
+      "at": "08:22",
+      "speaker": "Alex",
+      "text": "Yeah, a pilot would be easier to sell internally."
+    },
+    {
+      "at": "08:55",
+      "speaker": "Maya",
+      "text": "What would you need to move that conversation forward on your side?"
+    },
+    {
+      "at": "09:20",
+      "speaker": "Alex",
+      "text": "Probably a concrete example — what the output looks like, what insights we’d actually get.\n\nHard to define exact metrics right now, so I’m trying to understand what “success” would even look like."
+    },
+    {
+      "at": "09:52",
+      "speaker": "Sam",
+      "text": "We can share a sample dashboard and a short write-up."
+    },
+    {
+      "at": "10:18",
+      "speaker": "Alex",
+      "text": "That would help. Then I can loop in finance/procurement and security.\n\nJust to be transparent: Procurement usually owns vendor onboarding and our business owner isn’t on this call, so I can’t promise timeline yet."
+    },
+    {
+      "at": "10:48",
+      "speaker": "Maya",
+      "text": "Sounds good. We’ll send that over after the call."
+    },
+    {
+      "at": "11:10",
+      "speaker": "Alex",
+      "text": "Perfect."
+    },
+    {
+      "at": "11:28",
+      "speaker": "Sam",
+      "text": "Anything else you’d want us to include?"
+    },
+    {
+      "at": "11:46",
+      "speaker": "Alex",
+      "text": "Maybe something around ROI or benchmarks, if you have that."
+    },
+    {
+      "at": "12:10",
+      "speaker": "Maya",
+      "text": "Got it. We’ll follow up with the materials and take it from there. I’ll check back next week in case questions come up."
+    },
+    {
+      "at": "12:28",
+      "speaker": "Alex",
+      "text": "Sounds good. Thanks both."
     }
   ]
 }
